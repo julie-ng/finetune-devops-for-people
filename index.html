@@ -4,11 +4,32 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Fine-tuning DevOps for People over Perfection | Julie Ng | DevOps.js</title>
 
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,600;1,500&display=swap" rel="stylesheet">
+
+		<!-- Reveal.js -->
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
+
+		<!-- Override reveal.js theme -->
+		<!-- https://github.com/hakimel/reveal.js/blob/master/css/theme/template/exposer.scss -->
+		<style>
+			:root {
+				--r-background-color: #000D6B;
+				--r-heading-text-transform: none;
+				--r-heading-line-height: 1.1;
+				--r-heading1-size: 2em;
+				--r-heading-color: #FF5DA2;
+				--r-link-color: #99DDCC;
+				--r-link-color-hover: #9C19E0;
+				--r-heading-font: 'Jost', sans-serif;
+				--r-main-font: 'Jost', sans-serif;
+			}
+		</style>
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
@@ -16,8 +37,8 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section data-markdown="slides/0-title.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/0-intro.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
 			</div>
 		</div>
 
