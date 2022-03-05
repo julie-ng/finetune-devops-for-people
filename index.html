@@ -19,7 +19,7 @@
 		<!-- https://github.com/hakimel/reveal.js/blob/master/css/theme/template/exposer.scss -->
 		<style>
 			:root {
-				--r-background-color: #000D6B;
+				--r-background-color: #18173a;
 				--r-heading-text-transform: none;
 				--r-heading-line-height: 1.1;
 				--r-heading1-size: 2em;
@@ -29,6 +29,12 @@
 				--r-heading-font: 'Jost', sans-serif;
 				--r-main-font: 'Jost', sans-serif;
 			}
+
+		.reveal.overview .slides section.present:not(.stack.present) ,
+		.reveal.overview .slides section:hover {
+			outline: 10px solid #99DDCC;
+			outline-offset: 10px;
+		}
 		</style>
 
 		<!-- Theme used for syntax highlighted code -->
@@ -38,7 +44,9 @@
 		<div class="reveal">
 			<div class="slides">
 				<section data-markdown="slides/0-title.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
-				<section data-markdown="slides/0-intro.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/1-intro.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/2-best-practices.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/craftsmanship.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
 			</div>
 		</div>
 
