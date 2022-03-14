@@ -1,45 +1,29 @@
-# About Me
-
-- 👩‍💻 Making for the web since 1999
-- Engineer, FastTrack for Azure (Microsoft)
-- Previously Enterprise Architect (Allianz Germany)
-- Failed Entrepreneuer
-
----
-
 # Disclaimer
-
 
 - All opinions my own, not of my employers past and present.
 - Examples not exhaustive or comprehensive. Chosen for human value.
 
 ---
 
-# Why did I create this talk?
+# About Me
 
-(Maybe don't show)
+- 👩‍💻 Making for the web (full-stack) since 1999 <!-- .element: class="fragment" -->
+- 🚀 Failed Entrepreneuer <!-- .element: class="fragment" -->
+- 💶 Former Enterprise Architect (Allianz Germany) <!-- .element: class="fragment" -->
+- ☁️ Engineer, FastTrack for Azure (Microsoft) <!-- .element: class="fragment" -->
 
-- Analysis Paralysis
-- Not about tooling, rather people and practices
-- Good Friction vs Bad Friction
-- You can measure "faster", but can you really measure *better*?
+---
 
+<!-- .slide: data-background-image="../images/msft-covid.jpg" class="has-bg-heading" -->
+# People Matter More than Ever
 
-Note:
-- if you just focus on technology and tooling, you'll never understand DevOps
+Notes:
+- Why this talk?
+- Covid, tired, my job: advising Azure customers
+- Mismatch of expectations and current skills 
+- Optimizing for perfection, vs optimizing for learning.
+- Stop chasing perfect, even if we _used to_ be there
 - Do you need to deploy 10 times a day?
 - Tools should help you go faster, not handcuff and slow you down.
-
----
-
-# Why it matters
-
-- tired
-- 2020+ depressing?
-
----
-
-# Cloud is a Journey
-
-- Microsoft in its own cultural, cloud transformation
-- Azure customers also on journey
+- If you just focus on technology and tooling, you'll never understand DevOps
+- **Let's look at what it takes to get to perfect**

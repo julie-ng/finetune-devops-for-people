@@ -14,20 +14,25 @@
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/black.css">
+		<link rel="stylesheet" href="dist/theme/black.css">
+		<link rel="stylesheet" href="dist/julie.css">
 
 		<!-- Override reveal.js theme -->
 		<!-- https://github.com/hakimel/reveal.js/blob/master/css/theme/template/exposer.scss -->
 		<style>
 			:root {
-				--r-background-color: #18173a;
+				--r-background-color: #001219; /* #18173a;*/
 				--r-heading-text-transform: none;
 				--r-heading-line-height: 1.1;
+				--r-heading-margin: 0 0 0.6em 0;
 				--r-heading1-size: 2em;
-				--r-heading-color: #FF5DA2;
+				--r-heading-color: #e63946; /*#FF5DA2*/
 				--r-link-color: #99DDCC;
 				--r-link-color-hover: #9C19E0;
 				--r-heading-font: 'Jost', sans-serif;
 				--r-main-font: 'Jost', sans-serif;
+				--r-main-font-size: 36px;
+				--r-main-color: #f1faee;
 			}
 
 		.reveal.overview .slides section.present:not(.stack.present) ,
@@ -38,14 +43,19 @@
 		</style>
 
 		<!-- Theme used for syntax highlighted code -->
+		<!-- <link rel="stylesheet" href="plugin/highlight/atom-one-dark.css"> -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<!-- <link rel="stylesheet" href="plugin/highlight/solarized-dark.css"> -->
+		<!-- <link rel="stylesheet" href="plugin/highlight/tokyo-night-dark.css"> -->
 	</head>
 	<body>
 		<div class="reveal">
 			<div class="slides">
 				<section data-markdown="slides/0-title.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
 				<section data-markdown="slides/1-intro.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
-				<section data-markdown="slides/2-best-practices.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/pull-requests.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+				<section data-markdown="slides/dev-sec-ops.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
+
 				<section data-markdown="slides/craftsmanship.md" data-separator="^\n\n\n" data-separator-vertical="^\r?\n---\r?\n$"></section>
 			</div>
 		</div>
@@ -60,7 +70,7 @@
 			// - https://revealjs.com/config/
 			Reveal.initialize({
 				hash: true,
-
+				// center: false,
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
 			});

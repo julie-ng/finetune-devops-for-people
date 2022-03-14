@@ -1,0 +1,99 @@
+.reveal {
+	.presentation-title {
+		ul, h1 {
+			display: block;
+			text-align: left;
+		}
+
+		ul {
+			margin: 3em 0 0 0;
+		}
+
+		ul, li {
+			padding: 0;
+			list-style-type: none;
+			font-size: 1.8rem;
+		}
+	}
+
+	/**
+	*General
+	*/
+
+	li {
+		margin-bottom: 0.4em;
+	}
+
+	h1 {
+		margin: 0.5em 0 1em 0;
+	}
+
+	// .float-right {
+	// 	float: right;
+	// 	max-width: 300px;
+	// }
+
+	.has-bg-heading {
+		text-align: left;
+
+		h1 {
+			background-color: rgba(255, 255, 255, 0.9);
+			display: inline-block;
+			font-size: 0.8em;
+			padding: 0.2em 0.5em;
+		}
+	}
+
+	.chapter-heading-right {
+		display: block;
+		text-align: right;
+	}
+
+	.caption-font {
+		font-size: 0.5em;
+	}
+
+	.text-align-left {
+		text-align: left;
+	}
+
+	.hljs {
+		background-color: #182128;
+		padding: 0.6em 1.2em
+	}
+
+
+	li, p {
+		code {
+			background-color: #182128;
+			padding: 0 5px 2px 5px;
+			border-radius: 4px;
+		}
+	}
+
+	code {
+		color: #a0babe;
+	}
+
+	li, p {
+		strong {
+			color: #fdffb6;
+		}
+	}
+
+	li {
+		ul {
+			margin-top: 0.5em;
+		}
+
+		li {
+			list-style-type: circle;
+		}
+	}
+
+	.heading-over-image {
+		display: inline-block;
+		padding: 0.1em 0.2em;
+		background-color: rgba(0, 0, 0, 0.8)
+	}
+}

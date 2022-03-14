@@ -1,3 +1,5 @@
+<!-- .slide: class="presentation-title" -->
+
 # Fine-tuning DevOps for People over Perfection
 
 - Julie Ng  
