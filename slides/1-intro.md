@@ -5,17 +5,22 @@
 
 ---
 
-# About Me
+<!-- .slide: data-background-image="../images/msft-covid.jpg" class="about-me" -->
+
+## About Me
 
 - 👩‍💻 Making for the web (full-stack) since 1999 <!-- .element: class="fragment" -->
 - 🚀 Failed Entrepreneuer <!-- .element: class="fragment" -->
 - 💶 Former Enterprise Architect (Allianz Germany) <!-- .element: class="fragment" -->
 - ☁️ Engineer, FastTrack for Azure (Microsoft) <!-- .element: class="fragment" -->
 
+
 ---
 
-<!-- .slide: data-background-image="../images/msft-covid.jpg" class="has-bg-heading" -->
-# People Matter More than Ever
+<!-- .slide: data-background-image="../images/raphael-biscaldi-rE3kbKmLmhE-unsplash.jpg" class="foo" -->
+
+# DevOps is a journey <!-- .element: style="color:#fff; background:rgba(0,0,0,0.6); display:inline-block;padding:10px;" -->
+
 
 Notes:
 - Why this talk?

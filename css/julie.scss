@@ -96,4 +96,33 @@
 		padding: 0.1em 0.2em;
 		background-color: rgba(0, 0, 0, 0.8)
 	}
+
+	.small-list {
+		li {
+			font-size: 0.8em;
+		}
+	}
+
+	.about-me {
+		text-align: left;
+
+		h1, h2 {
+			display: inline-block;
+			background: rgba(255, 255, 255, 0.8)
+		}
+
+		ul {
+			margin-left: -0.5em;
+			margin-right: 35%;
+		}
+
+		ul {
+			// display: inline-block;
+			background: rgba(0, 0, 0, 0.8);
+			font-size: 0.8em;
+			li {
+				margin-left: 1.5em;
+			}
+		}
+	}
 }

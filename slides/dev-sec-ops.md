@@ -1,5 +1,6 @@
 <!-- .slide: data-background-image="../images/arvin-keynes-V4mNfkDmiX4-unsplash.jpg" data-background-size="contain" data-background-position="left" class="chapter-heading-right" -->
-# DevSecOps
+
+# DevSecOps<!-- .element: style="background: rgba(0, 0, 0, 0.6); display: inline-block" -->
 
 Notes:
 - People love terms like this.
@@ -145,7 +146,7 @@ To address all issues, run:
 
 ---
 
-<!-- .slide: data-background-image="../images/juan-rumimpunu-nLXOatvTaLo-unsplash.jpg" class="text-align-left" -->
+<!-- .slide: data-background-image="../images/philippe-bout-93W0xn4961g-unsplash.jpg" class="text-align-left" -->
 
 ### Now What?
 
@@ -155,6 +156,7 @@ To address all issues, run:
 
 Note:
 - Missing - so what's next?
+- stop, slow down, and think
 - after Googling & Stack Overflowing…
 
 ---

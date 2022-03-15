@@ -1,4 +1,6 @@
-# Pull Request
+<!-- .slide: data-background-image="../images/stop-light.jpg"  class="chapter-heading-right"  -->
+
+# Pull Requests<!-- .element: style="background: rgba(0, 0, 0, 0.8); display: inline-block" -->
 
 Best Practice?
 
@@ -6,9 +8,9 @@ Best Practice?
 
 Placeholder: GitHub Screenshot
 
-- peer review
-- better quality
-- require more security
+- Peer review
+- Automated tests for better quality
+- Combine with Branch protection for more security
 
 ---
 
@@ -42,6 +44,10 @@ Note:
 
 ---
 
+<!-- .slide: data-background-image="../images/minku-kang-5d2QJl88QbI-unsplash.jpg" class="foo" -->
+
+---
+
 # How It Should Be
 
 - Pull Requests is like Airport security
@@ -56,4 +62,53 @@ Note:
 
 ---
 
+<img src="../images/pr-kief-tweet.png" width="600">
+
+---
+
+### Stuck in a Loop?
+
+<img src="../images/devops-pr-workflow.png" width="700">
+
+---
+
+### Lower Velocity, Less Business Value
+
+<img src="../images/az-internal-repo.png" width="700">
+
+Note:
+- internal repo, screenshot this morning
+- for _daily work_
+- 26 days ago? Slow
+- 54 stuck PRs
+- 16 projects
+
+
+---
+
+### How to Deploy Everyday
+
+<img src="../images/velocity-matteo-1.png" width="500">
+
+<img src="../images/velocity-matteo-2.png" width="500"><!-- .element: class="fragment" -->
+
+Note:
+- overnight deployments every 2 weeks
+- EVERY DAY!
+- Trust
+
+
+---
+
+### Team Decides
+
+<img src="../images/atc-when-to-deploy.jpg" width="700">
+
+Deploying at night… yay or nay?<!-- .element: class="caption-font" -->
+
+---
+
 Now that we cover security can backfire… let's look at DevSecOps, best of intentions…
+
+Note:
+- Trust your team… but others?
