@@ -11,14 +11,6 @@ Notes:
 
 ---
 
-
-# Placeholder
-
-- All the benefits
-- All the tools
-
----
-
 ## in real life…
 
 ![](../images/devsecops-1-warning.png)

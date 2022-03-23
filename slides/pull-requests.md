@@ -2,11 +2,9 @@
 
 # Pull Requests<!-- .element: style="background: rgba(0, 0, 0, 0.8); display: inline-block" -->
 
-Best Practice?
+Best Practice…<!-- .element: style="color:#111" -->
 
----
-
-Placeholder: GitHub Screenshot
+Note:
 
 - Peer review
 - Automated tests for better quality
@@ -14,29 +12,31 @@ Placeholder: GitHub Screenshot
 
 ---
 
-# Slide Idea
-
-Point: frustration
+### Pull Request Workflow
 
 - `git checkout main && git merge feature`
 - `git push`
-- Open a Pull Request
-- Opens Pull Requst
-- `#signoff`
-- `#signoff`
-- `#signoff`
-- Give Up & Close Pull Request
+- Open a Pull Request<!-- .element: class="fragment" -->
+- `#signoff` <!-- .element: class="fragment" -->
+- `#signoff` <!-- .element: class="fragment" -->
+- `#signoff` <!-- .element: class="fragment" -->
+- Give Up 🤷‍♀️ & (don't) Close Pull Request<!-- .element: class="fragment" -->
+
+Note:
+- as dev, finished
+- frustrated
+
 
 ---
 
-# Slow PRs
+## Slow Pull Requests
 
 - `git push`
 - waiting for build agent…30 sec
 - waiting for build agent…30 sec
-- opens Twitter (MEME)
-- 60 minutes later
-- Build Failed. No deployment, no value Add.
+- opens Twitter
+- 60 minutes later…
+- Build Failed. No deployment, no value add 🤷‍♀️
 
 Note:
 - shared agents, pricing plan
@@ -46,19 +46,8 @@ Note:
 
 <!-- .slide: data-background-image="../images/minku-kang-5d2QJl88QbI-unsplash.jpg" class="foo" -->
 
----
-
-# How It Should Be
-
-- Pull Requests is like Airport security
-- Do you want to make family go thorugh airport security 10x a day?
-- We want to deploy, e.g. fly 100 times day, but we handcuff ourselves
-- If you trust your team --> do you really need a pull request?
-- When do you need it? Open Source, fork + PR workflow
-  - Be aware: PR = security back door!
-  - GitHub protects with Secrets
-  - Azure Pipelines: paranoid checks…
-- Theory: Pull Request != Quality or Craftsmanship
+Note:
+Pull Requests Run Amok
 
 ---
 
@@ -96,7 +85,8 @@ Note:
 - overnight deployments every 2 weeks
 - EVERY DAY!
 - Trust
-
+- When do you need it? Open Source, fork + PR workflow
+- Theory: Pull Request != Quality or Craftsmanship
 
 ---
 
@@ -104,11 +94,8 @@ Note:
 
 <img src="../images/atc-when-to-deploy.jpg" width="700">
 
-Deploying at night… yay or nay?<!-- .element: class="caption-font" -->
-
----
-
-Now that we cover security can backfire… let's look at DevSecOps, best of intentions…
+Team choosing to deploy outside of business hours?<!-- .element: class="caption-font" -->
 
 Note:
+- Now that we cover security can backfire… let's look at DevSecOps, best of intentions…
 - Trust your team… but others?
