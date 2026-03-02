@@ -5,7 +5,7 @@
 
 ---
 
-<!-- .slide: data-background-image="../images/msft-covid.jpg" class="about-me" -->
+<!-- .slide: data-background-image="./images/msft-covid.jpg" class="about-me" -->
 
 ## About Me
 
@@ -17,7 +17,7 @@
 
 ---
 
-<!-- .slide: data-background-image="../images/raphael-biscaldi-rE3kbKmLmhE-unsplash.jpg" class="foo" -->
+<!-- .slide: data-background-image="./images/raphael-biscaldi-rE3kbKmLmhE-unsplash.jpg" class="foo" -->
 
 # DevOps is a journey <!-- .element: style="color:#fff; background:rgba(0,0,0,0.6); display:inline-block;padding:10px;" -->
 

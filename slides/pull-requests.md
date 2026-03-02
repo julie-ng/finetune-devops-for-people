@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="../images/stop-light.jpg"  class="chapter-heading-right"  -->
+<!-- .slide: data-background-image="./images/stop-light.jpg"  class="chapter-heading-right"  -->
 
 # Pull Requests<!-- .element: style="background: rgba(0, 0, 0, 0.8); display: inline-block" -->
 
@@ -44,26 +44,26 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="../images/minku-kang-5d2QJl88QbI-unsplash.jpg" class="foo" -->
+<!-- .slide: data-background-image="./images/minku-kang-5d2QJl88QbI-unsplash.jpg" class="foo" -->
 
 Note:
 Pull Requests Run Amok
 
 ---
 
-<img src="../images/pr-kief-tweet.png" width="600">
+<img src="./images/pr-kief-tweet.png" width="600">
 
 ---
 
 ### Stuck in a Loop?
 
-<img src="../images/devops-pr-workflow.png" width="700">
+<img src="./images/devops-pr-workflow.png" width="700">
 
 ---
 
 ### Lower Velocity, Less Business Value
 
-<img src="../images/az-internal-repo.png" width="700">
+<img src="./images/az-internal-repo.png" width="700">
 
 Note:
 - internal repo, screenshot this morning
@@ -77,9 +77,9 @@ Note:
 
 ### How to Deploy Everyday
 
-<img src="../images/velocity-matteo-1.png" width="500">
+<img src="./images/velocity-matteo-1.png" width="500">
 
-<img src="../images/velocity-matteo-2.png" width="500"><!-- .element: class="fragment" -->
+<img src="./images/velocity-matteo-2.png" width="500"><!-- .element: class="fragment" -->
 
 Note:
 - overnight deployments every 2 weeks
@@ -92,7 +92,7 @@ Note:
 
 ### Team Decides
 
-<img src="../images/atc-when-to-deploy.jpg" width="700">
+<img src="./images/atc-when-to-deploy.jpg" width="700">
 
 Team choosing to deploy outside of business hours?<!-- .element: class="caption-font" -->
 

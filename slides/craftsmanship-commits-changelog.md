@@ -22,7 +22,7 @@ Note:
 
 ### Why does it matter?
 
-<img src="../images/automated-changelog.png" width="600">
+<img src="./images/automated-changelog.png" width="600">
 
 Common challenge - versioning, esp. with "microservices"<!-- .element: class="caption-font" -->
 
@@ -47,7 +47,7 @@ Note:
 
 ### Acknowledge Others
 
-<img src="../images/commit-share-credit.png" width="600">
+<img src="./images/commit-share-credit.png" width="600">
 
 Extra 30 seconds goes a long way for team culture<!-- .element: class="caption-font" -->
 
@@ -59,7 +59,7 @@ Note:
 
 ### Document for Humans
 
-<img src="../images/document-pipelines-for-humans.png" width="600">
+<img src="./images/document-pipelines-for-humans.png" width="600">
 
 30 minutes right now saves hours * 10 teammates in future<!-- .element: class="caption-font" -->
 
@@ -72,7 +72,7 @@ Note:
 
 ### Time to Mastery?
 
-<img src="../images/github-workflow-diagram.png" width="800">
+<img src="./images/github-workflow-diagram.png" width="800">
 
 Years<!-- .element: class="fragment" -->
 
@@ -81,7 +81,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="../images/clay-banks-LjqARJaJotc-unsplash.jpg" class="foo" -->
+<!-- .slide: data-background-image="./images/clay-banks-LjqARJaJotc-unsplash.jpg" class="foo" -->
 
 ## Craftsmanship is an Investment in yourself and your teams<!-- .element: style="background: rgba(255, 255, 255, 0.6)" -->
 

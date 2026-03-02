@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="../images/raphael-biscaldi-rE3kbKmLmhE-sdfsunsplash.jpg" class="presentation-title" -->
+<!-- .slide: data-background-image="./images/raphael-biscaldi-rE3kbKmLmhE-sdfsunsplash.jpg" class="presentation-title" -->
 
 # Fine-tuning DevOps for People over Perfection<!-- .element: style="" -->
 

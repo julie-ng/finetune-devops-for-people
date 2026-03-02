@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="../images/arvin-keynes-V4mNfkDmiX4-unsplash.jpg" data-background-size="contain" data-background-position="left" class="chapter-heading-right" -->
+<!-- .slide: data-background-image="./images/arvin-keynes-V4mNfkDmiX4-unsplash.jpg" data-background-size="contain" data-background-position="left" class="chapter-heading-right" -->
 
 # DevSecOps<!-- .element: style="background: rgba(0, 0, 0, 0.6); display: inline-block" -->
 
@@ -13,7 +13,7 @@ Notes:
 
 ## in real life…
 
-![](../images/devsecops-1-warning.png)
+![](./images/devsecops-1-warning.png)
 
 No one in webinar commented on the security warnings 🤔 <!-- .element: class="caption-font" -->
 
@@ -25,7 +25,7 @@ Note:
 
 ### High Alert 🚨
 
-![](../images/devsecops-2-dependabot-alerts.png)
+![](./images/devsecops-2-dependabot-alerts.png)
 
 There's 3 Dependabots? alerts, security updates and version updates 🤔 <!-- .element: class="caption-font" -->
 
@@ -41,7 +41,7 @@ Note:
 
 ### Ok, help me 🤖
 
-![](../images/devsecops-3-suggestion.png)
+![](./images/devsecops-3-suggestion.png)
 
 ---
 
@@ -138,7 +138,7 @@ To address all issues, run:
 
 ---
 
-<!-- .slide: data-background-image="../images/philippe-bout-93W0xn4961g-unsplash.jpg" class="text-align-left" -->
+<!-- .slide: data-background-image="./images/philippe-bout-93W0xn4961g-unsplash.jpg" class="text-align-left" -->
 
 ### Now What?
 
@@ -207,7 +207,7 @@ Upsupported Open SSL? No Thanks. <!-- .element: class="caption-font" -->
 
 # Nevermind. Revert. 
 
-![](../images/devsecops-4-revert.png)
+![](./images/devsecops-4-revert.png)
 
 Note:
 
@@ -254,7 +254,7 @@ Note:
 
 ### Microsoft Defender Results
 
-<img src="../images/devsecops-5-defender-results.png" width="800">
+<img src="./images/devsecops-5-defender-results.png" width="800">
 
 Note:
 - same vulnerability
@@ -274,7 +274,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="../images/snyk-globparent-1.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="./images/snyk-globparent-1.png" data-background-size="contain" -->
 
 Note:
 - Snyk - favorite catalog for CVEs (common vulnerabilities and exposures)
@@ -283,7 +283,7 @@ Note:
 
 ---
 
-<!-- .slide: data-background-image="../images/snyk-globparent-2.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="./images/snyk-globparent-2.png" data-background-size="contain" -->
 
 ## DDoS via slowing it down.<!-- .element: class="fragment heading-over-image" -->
 
@@ -294,7 +294,7 @@ Note:
 
 # What are we globbing for?
 
-![](../images/aks-architect-app.png)
+![](./images/aks-architect-app.png)
 
 Interactive (not a checklist) App
 
@@ -355,4 +355,4 @@ Missing Security Context<!-- .element: class="fragment" data-fragment-index="1" 
 
 # When Security becomes a todo…
 
-<img src="../images/pr-dependabot.png" width="500">
+<img src="./images/pr-dependabot.png" width="500">
